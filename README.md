@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile!
 
-I'm [Azizbek Otaboyev](https://t.me/azizbeklive), a passionate developer who loves to code and build exciting projects. Here, you'll find a collection of my open-source contributions and personal projects.
+I'm [Azizbek Otaboyev](https://www.youtube.com/channel/UCmdyLpXqZ3jTwcU_DbkCu2Q), a passionate developer who loves to code and build exciting projects. Here, you'll find a collection of my open-source contributions and personal projects.
 
 **Skills:**
 - Android App Development
