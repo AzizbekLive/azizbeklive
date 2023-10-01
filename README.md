@@ -8,6 +8,7 @@ I'm ***Azizbek Otaboyev***, a passionate developer who loves to code and build e
 - Problem-solving skills
 - Creativity
 
+<br>
 <div align="start">
   <a href="https://www.buymeacoffee.com/azizbek.live" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="170">
@@ -40,6 +41,9 @@ I'm ***Azizbek Otaboyev***, a passionate developer who loves to code and build e
 
 <br>
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbeklive&layout=compact)](https://github.com/azizbeklive)
+
+<br>
 
 **Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions. Let's build amazing things together!**
 
