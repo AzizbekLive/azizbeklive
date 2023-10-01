@@ -8,6 +8,8 @@ I'm [Azizbek Otaboyev](https://www.youtube.com/channel/UCmdyLpXqZ3jTwcU_DbkCu2Q)
 - Problem-solving skills
 - Creativity
 
+- [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/azizbek.live)
+
 Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions. Let's build amazing things together!
 
 
