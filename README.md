@@ -10,10 +10,11 @@ I'm [Azizbek Otaboyev](https://www.youtube.com/channel/UCmdyLpXqZ3jTwcU_DbkCu2Q)
 
 <div align="start">
   <a href="https://www.buymeacoffee.com/azizbek.live" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60" width="170">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="170">
   </a>
 </div>
 
+<br>
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions. Let's build amazing things together!
 
