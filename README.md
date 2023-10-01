@@ -16,6 +16,31 @@ I'm [Azizbek Otaboyev](https://www.youtube.com/channel/UCmdyLpXqZ3jTwcU_DbkCu2Q)
 
 <br>
 
+<div align="start">
+  <a href="https://t.me/azizbeklive" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Follow-blue?style=social&logo=telegram" alt="Telegram Subscribe" height="40">
+  </a>
+</div>
+
+<br>
+
+<div align="start">
+  <a href="https://www.youtube.com/azizbeklive" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCmdyLpXqZ3jTwcU_DbkCu2Q?style=social" alt="YouTube Subscribe" height="40">
+  </a>
+</div>
+
+<br>
+
+<div align="start">
+  <a href="https://www.instagram.com/azizbek.live/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-@azizbek.live-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram Follow" height="40">
+  </a>
+</div>
+
+<br>
+
+
 Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions. Let's build amazing things together!
 
 
