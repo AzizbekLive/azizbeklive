@@ -32,6 +32,9 @@ Feel free to connect with me on various platforms:
   </a>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Let's Build Together 🚀
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions. Let's build amazing things together!
