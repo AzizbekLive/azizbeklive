@@ -32,6 +32,8 @@ Feel free to connect with me on various platforms:
   </a>
 </div>
 
+## Code 👨🏻‍💻
+
 <!--START_SECTION:waka-->
 
 ```txt
