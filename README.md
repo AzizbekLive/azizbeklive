@@ -41,7 +41,7 @@ I'm ***Azizbek Otaboyev***, a passionate developer who loves to code and build e
 <br>
 
 
-Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions. Let's build amazing things together!
+**Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions. Let's build amazing things together!**
 
 
 <!--
