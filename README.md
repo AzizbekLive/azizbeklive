@@ -34,6 +34,14 @@ Feel free to connect with me on various platforms:
 
 ## Code 👨🏻‍💻
 
+<div align="center">
+  <a href="https://wakatime.com/@6733ae38-ae9e-4041-9fdb-647f744b7c6e">
+    <img src="https://wakatime.com/badge/user/6733ae38-ae9e-4041-9fdb-647f744b7c6e.svg" alt="wakatime">
+  </a>
+</div>
+
+</br>
+
 <!--START_SECTION:waka-->
 
 ```txt
