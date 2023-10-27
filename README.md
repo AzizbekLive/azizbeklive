@@ -45,11 +45,11 @@ Feel free to connect with me on various platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 33 hrs 55 mins  ██████████████████████▓░░   91.33 %
-XML                    1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Groovy                 36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Gradle                 25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Properties             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Kotlin                 36 hrs 43 mins  ███████████████████████░░   92.46 %
+XML                    1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Groovy                 27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Gradle                 22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Markdown               12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
