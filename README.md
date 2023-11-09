@@ -45,11 +45,11 @@ Feel free to connect with me on various platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            55 hrs 48 mins  ████████████████████████░   96.46 %
-XML               1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Java              44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Dart              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Markdown          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Kotlin            52 hrs 28 mins  ████████████████████████░   96.47 %
+XML               51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Java              37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Java Properties   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
