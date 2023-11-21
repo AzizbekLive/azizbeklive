@@ -45,11 +45,7 @@ Feel free to connect with me on various platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 40 hrs 40 mins  ████████████████████████░   95.55 %
-XML                    55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Gradle                 16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Markdown               14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Java                   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
