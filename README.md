@@ -45,11 +45,11 @@ Feel free to connect with me on various platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                   28 hrs 2 mins   █████████████████████▒░░░   85.88 %
-Kotlin                 1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Groovy                 47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Java Properties        40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-XML                    37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Dart                   31 hrs 27 mins  ████████████████████▓░░░░   83.18 %
+Groovy                 1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Gradle                 1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Kotlin                 1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Java Properties        40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
