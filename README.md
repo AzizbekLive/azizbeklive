@@ -45,11 +45,11 @@ Feel free to connect with me on various platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             29 hrs 4 mins   ██████████████▓░░░░░░░░░░   58.50 %
-Other            18 hrs 56 mins  █████████▓░░░░░░░░░░░░░░░   38.09 %
-Swift            32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-HTTP Request     28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Figma Design     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Dart             28 hrs 10 mins  ██████████████▒░░░░░░░░░░   57.84 %
+Other            18 hrs 58 mins  █████████▓░░░░░░░░░░░░░░░   38.95 %
+Swift            43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Figma Design     21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+HTTP Request     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
