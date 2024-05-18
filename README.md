@@ -45,11 +45,11 @@ Feel free to connect with me on various platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              28 hrs 22 mins  ████████████░░░░░░░░░░░░░   48.08 %
-Other             26 hrs 51 mins  ███████████▒░░░░░░░░░░░░░   45.51 %
-Swift             1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Text              52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Kotlin            14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Dart              30 hrs 59 mins  ████████████▓░░░░░░░░░░░░   50.48 %
+Other             27 hrs 50 mins  ███████████▒░░░░░░░░░░░░░   45.37 %
+Kotlin            31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+textmate          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Swift             21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
