@@ -45,11 +45,11 @@ Feel free to connect with me on various platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             27 hrs 59 mins  █████████████▓░░░░░░░░░░░   55.20 %
-Other            21 hrs 21 mins  ██████████▓░░░░░░░░░░░░░░   42.10 %
+Dart             27 hrs 59 mins  ██████████████░░░░░░░░░░░   55.67 %
+Other            20 hrs 55 mins  ██████████▒░░░░░░░░░░░░░░   41.59 %
 XML              19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 JSON             16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Image (svg)      13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Image (svg)      13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
