@@ -45,11 +45,11 @@ Feel free to connect with me on various platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-Other             34 hrs 57 mins  ███████████████████░░░░░░   76.66 %
-Dart              8 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-XML               45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-YAML              44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Groovy            17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Other             34 hrs 2 mins   ███████████████████▓░░░░░   78.19 %
+Dart              7 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
+YAML              41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+XML               36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Groovy            16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
