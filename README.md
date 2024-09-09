@@ -45,11 +45,11 @@ Feel free to connect with me on various platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-Other          25 hrs 42 mins  █████████████████▒░░░░░░░   69.67 %
-Dart           7 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.89 %
-Canva Design   1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-YAML           1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-XML            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Other            23 hrs 42 mins  █████████████████▒░░░░░░░   68.97 %
+Dart             7 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+YAML             1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Canva Design     35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+XML              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
