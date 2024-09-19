@@ -45,11 +45,8 @@ Feel free to connect with me on various platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-Other             13 hrs 48 mins  ██████████████████████▒░░   89.66 %
-Dart              1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-Java Properties   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Gradle            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other   15 hrs 21 mins  ████████████████████████▒   97.74 %
+Dart    21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
