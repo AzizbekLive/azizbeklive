@@ -45,10 +45,11 @@ Feel free to connect with me on various platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-Other          31 hrs 36 mins  ██████████████████████░░░   87.44 %
-Image (svg)    2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Canva Design   1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Other          34 hrs 18 mins  ███████████████████████░░   92.63 %
+Image (svg)    2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
 Python         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Dart           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Canva Design   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
