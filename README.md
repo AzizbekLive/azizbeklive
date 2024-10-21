@@ -42,18 +42,6 @@ Feel free to connect with me on various platforms:
 
 </br>
 
-<!--START_SECTION:waka-->
-
-```txt
-Other          34 hrs 18 mins  ███████████████████████░░   92.63 %
-Image (svg)    2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Python         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Dart           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Canva Design   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
-
 ## Let's Build Together 🚀
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions. Let's build amazing things together!
