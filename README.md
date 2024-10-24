@@ -18,14 +18,6 @@ If you find my projects helpful or want to support my work, you can buy me a cof
   </a>
 </div>
 
-## Connect With Me 🌐
-
-Feel free to connect with me on various platforms:
-
-- [Telegram](https://t.me/azizbeklive) for updates and discussions.
-- [YouTube](https://www.youtube.com/azizbeklive) for video content.
-- [Instagram](https://www.instagram.com/azizbek.live/) for a glimpse into my life.
-
 <div align="center">
   <a href="https://github.com/azizbeklive">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbeklive&layout=compact" alt="Top Languages" />
